@@ -7,8 +7,9 @@ Built with Python + Tkinter, packaged into a standalone `.exe`.
 
 ## Why this exists
 
-My Canon EOS 700D’s USB port rusted badly and stopped working, so the camera could no longer be detected over USB. Canon’s EOS Utility software became useless for me.  
-Instead of paying for a repair, I asked ChatGPT to help me write code for an importer tool that works directly with a card reader and a SD card.  
+My Canon EOS 700D’s USB port rusted badly and stopped working, so the camera could no longer be detected over USB. Canon’s EOS Utility software became useless for me.
+  
+Instead of paying for a repair, I asked ChatGPT to help me write code for a simple EOS Utility importer tool clone that works directly with a card reader and a SD card.  
 
 This project is the result.  
 
